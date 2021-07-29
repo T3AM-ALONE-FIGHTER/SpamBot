@@ -59,3 +59,8 @@ To stop messages, run:
 you: /stop simple
 you: /stop #big
 ```
+# Deploying
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/T3AM-ALONE-FIGHTER/KING-COBRA-PM-BOT)
+
+
